@@ -8,15 +8,13 @@
 
 ## 2 Team Selection
 
-* Team Name:
+Team Name: ____________
 
-* Team Member #1 - Name: 
-
-* Team Member #1 - Email: 
-
-* Team Member #2 - Name: 
-
-* Team Member #2 - Email: 
+| Team Member Name | Email Address       |
+|------------------|---------------------|
+| [Name 1]         | [Email 1]           |
+| [Name 2]         | [Email 2]           |
+| [Name 3]         | [Email 3]           |
 
 ## 3 Reading
 
