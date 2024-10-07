@@ -26,17 +26,19 @@ Nothing to submit for this section!
 
 ### 4.1 Target Market & Demographics
 
-### 4.2 Hardware Requirements Specification
+### 4.2 Security Requirements Specification
 
-### 4.3 Software Requirements Specification
+### 4.3 Hardware Requirements Specification
 
-### 4.4 System Level Diagrams
+### 4.4 Software Requirements Specification
 
-### 4.5 Budgeting
+### 4.5 System Level Diagrams
+
+### 4.6 Budgeting
 
 ## 5 In-Class Pitch
 
-Your 7-minute pitch must include:
+Your 5-minute pitch must include:
 
 * Target Market & Demographics
 * System block diagram
