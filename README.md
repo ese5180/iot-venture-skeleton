@@ -1,4 +1,4 @@
-# A01 IoT Venture Pitch
+# FP-F24 IoT Venture Pitch
 ## ESE5180: IoT Wireless, Security, & Scaling
 
 
@@ -16,7 +16,9 @@ Team Name: ____________
 | [Name 2]         | [Email 2]           |
 | [Name 3]         | [Email 3]           |
 
-## 3 Reading
+When will you have your 30-minute weekly team meeting? ____________
+
+## 3 Reading & Research
 
 Nothing to submit for this section!
 
@@ -34,7 +36,7 @@ Nothing to submit for this section!
 
 ## 5 In-Class Pitch
 
-Your 6-minute pitch must include:
+Your 7-minute pitch must include:
 
 * Target Market & Demographics
 * System block diagram
