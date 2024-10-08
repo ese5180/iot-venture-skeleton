@@ -32,7 +32,7 @@ Nothing to submit for this section!
 
 ### 4.4 Software Requirements Specification
 
-### 4.5 System Level Diagrams
+### 4.5 System-Level Diagrams
 
 ### 4.6 Budgeting
 
