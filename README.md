@@ -1,7 +1,8 @@
-# IoT Venture Pitch
-## ESE5180: IoT Wireless, Security, & Scaling
+# ESE5180: IoT Venture Pitch
 
-**Team Name:** 
+**Team Number:**
+
+**Team Name:**
 
 | Team Member Name | Email Address       |
 |------------------|---------------------|
