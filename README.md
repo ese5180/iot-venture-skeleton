@@ -1,4 +1,4 @@
-# ESE5180: IoT Venture Pitch
+# ESE5180: IoT Venture
 
 **Team Number:**
 
