@@ -4,6 +4,8 @@
 
 **Team Name:**
 
+**Product Name:**
+
 | Team Member Name | Email Address       |
 |------------------|---------------------|
 | [Name 1]         | [Email 1]           |
